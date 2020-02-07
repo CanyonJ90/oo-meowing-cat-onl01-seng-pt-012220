@@ -11,7 +11,4 @@ class Cat
   def meow
     puts "meow"
   end
-  
-  meow
-
 end
